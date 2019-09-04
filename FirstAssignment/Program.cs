@@ -11,7 +11,7 @@ namespace FirstAssignment
 
             Console.WriteLine("bob and ann are siblings");
             Console.WriteLine("bob is" + " " + bobAge);
-            
+            Console.WriteLine("ann is" + " " annAge);
 
         }
     }
