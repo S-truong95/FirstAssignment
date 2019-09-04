@@ -6,7 +6,13 @@ namespace FirstAssignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int bobAge = 10;
+            int annAge = 15;
+
+            Console.WriteLine("bob and ann are siblings");
+            Console.WriteLine("bob is" + " " + bobAge);
+            
+
         }
     }
 }
